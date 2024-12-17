@@ -5,7 +5,8 @@ import org.junit.Test;
 public class HelloWorldWriteTest {
     @Test
     public void shouldWriteHelloWorldToTheConsole() {
-        System.out.println("Hello world!");
+        System.out.println("Hello dojo");
     }
+
 }
 
